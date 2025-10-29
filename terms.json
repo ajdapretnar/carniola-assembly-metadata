@@ -1,0 +1,336 @@
+{
+    "1": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Auersperg, Anton", "Auersperg, Gustav", "Codelli, Anton", "Jombart, Julij", "Langer, Franc Viktor", "Rudež, Jožef", "Strahl, Edvard", "Wurzbach, Karel", "Zois, Anton", "Gutmannsthal, Ludvik", "Margheri, Albin", "Rudež, Franc"],
+                "start_date": "1861-03-28",
+                "end_date": "1867-02-01"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Luckmann, Lambert", "Zois, Mihael", "Horak, Janez Nepomuk", "Seunig, Vincenc", "Debevc, Jožef"],
+                "start_date": "1861-03-26",
+                "end_date": "1867-01-30"
+            },
+            "mestna_kurija": {
+                "members": ["Recher, Nikolaj", "Gutman, Janez", "Dežman, Karel", "Lokar, Konrad", "Brolih, Janez", "Ambrož, Mihael", "Schloissnigg, Janez", "Suppan, Jožef", "Kozler, Janez"],
+                "start_date": "1861-03-26",
+                "end_date": "1867-01-30"
+            },
+            "kmečka_kurija": {
+                "members": ["Bleiweis, Janez", "Obreza, Karel", "Toman, Janez", "Golob, Matija", "Derbič, Jožef", "Toman, Lovro", "Koren, Matija", "Vilhar, Miroslav", "Costa, Etbin", "Mulej, Alojz", "Zagorc, Jože", "Rozman, Anton", "Treo, Santo", "Klemenčič, Ivan", "Ulepič, Karel", "Skedl, Janez", "Kromer, Franc", "Pinder, Matija", "Svetec, Luka", "Kapelle, Janez", "Lesar, Anton"],
+                "start_date": "1861-03-21",
+                "end_date": "1867-01-26"
+            },
+            "virilist": {
+                "members": ["Vidmar, Jernej"],
+                "start_date": "1861-03-21",
+                "end_date": "1867-01-26"
+            }
+        },
+    "2": {
+            "veleposest": {
+                "members": ["Dežman, Karel", "Rastern, Nikodem", "Langer, Franc Viktor", "Rudež, Franc", "Savinschegg, Jožef", "Thurn, Hiacint", "Wurzbach, Karel", "Wurzbach, Julij", "Seunig, Jožef", "Smola, Anton"],
+                "start_date": "1867-02-01",
+                "end_date": "1867-03-28"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Horak, Janez Nepomuk", "Debevc, Jožef"],
+                "start_date": "1867-01-30",
+                "end_date": "1867-03-27"
+            },
+            "mestna_kurija": {
+                "members": ["Toman, Lovro", "Klun, Vinko", "Gariboldi, Anton", "Höffern, Leopold", "Prevc, Valentin", "Schloissnigg, Janez", "Ravnihar, Ludvik", "Souvan, Franz Ksaver"],
+                "start_date": "1867-01-30",
+                "end_date": "1867-03-27"
+            },
+            "kmečka_kurija": {
+                "members": ["Bleiweis, Janez", "Terpinc, Fidelis", "Toman, Janez", "Zois, Anton", "Kos, Anton", "Pintar, Lovro", "Costa, Etbin", "Koren, Matija", "Grabrijan, Jurij", "Zagorc, Jože", "Treo, Santo", "Barbo, Jožef Emanuel", "Tavčar, Miha", "Kozler, Peter", "Svetec, Luka", "Kramarič, Martin"],
+                "start_date": "1867-01-26",
+                "end_date": "1867-03-26"
+            },
+            "virilist": {
+                "members": ["Vidmar, Jernej"],
+                "start_date": "1867-01-26",
+                "end_date": "1867-03-26"
+            }
+        },
+    "3": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Auersperg, Aleksander", "Dežman, Karel", "Klun, Vinko", "Langer, Franc Viktor", "Margheri, Albin", "Rastern, Nikodem", "Rudež, Franc", "Savinschegg, Jožef", "Thurn, Hiacint", "Coronini, Karel", "Kromer, Franc"],
+                "start_date": "1867-03-28",
+                "end_date": "1870-07-01"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Toman, Lovro", "Klun, Vinko"],
+                "start_date": "1867-03-27",
+                "end_date": "1870-06-28"
+            },
+            "mestna_kurija": {
+                "members": ["Wurzbach, Karel", "Suppan, Jožef", "Kaltenegger, Friderik", "Jugovic, Leopold", "Gariboldi, Anton", "Lipold, Marko", "Prevc, Valentin", "Obreza, Karel", "Kozler, Janez", "Mulej, Alojz"],
+                "start_date": "1867-03-27",
+                "end_date": "1870-06-28"
+            },
+            "kmečka_kurija": {
+                "members": ["Bleiweis, Janez", "Terpinc, Fidelis", "Kotnik, Franc", "Zois, Anton", "Kos, Anton", "Toman, Janez", "Razlag, Radoslav", "Kramar, Franc", "Pintar, Lovro", "Costa, Etbin", "Koren, Matija", "Grabrijan, Jurij", "Zagorc, Jože", "Treo, Santo", "Barbo, Jožef Emanuel", "Tavčar, Miha", "Zarnik, Valentin", "Kozler, Peter", "Svetec, Luka", "Kramarič, Martin"],
+                "start_date": "1867-03-26",
+                "end_date": "1870-06-27"
+            },
+            "virilist": {
+                "members": ["Vidmar, Jernej"],
+                "start_date": "1867-03-26",
+                "end_date": "1870-06-27"
+            }
+        },
+    "4": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Auersperg, Aleksander", "Dežman, Karel", "Klun, Vinko", "Langer, Franc Viktor", "Margheri, Albin", "Rastern, Nikodem", "Rudež, Franc", "Thurn, Hiacint", "Wurzbach, Karel", "Blagay, Ludvik", "Savinschegg, Jožef"],
+                "start_date": "1870-07-01",
+                "end_date": "1871-12-15"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Horak, Janez Nepomuk", "Zupan, Valentin"],
+                "start_date": "1870-06-28",
+                "end_date": "1871-12-14"
+            },
+            "mestna_kurija": {
+                "members": ["Suppan, Jožef", "Kaltenegger, Friderik", "Eybesfeld, Sigmund", "Irkič, Janez", "Jugovic, Leopold", "Gauster, Moriz", "Murnik, Janez", "Kotnik, Franc", "Rudež, Karel", "Kromer, Franc"],
+                "start_date": "1870-06-28",
+                "end_date": "1871-12-14"
+            },
+            "kmečka_kurija": {
+                "members": ["Poklukar, Josip", "Bleiweis, Janez", "Toman, Janez", "Razlag, Radoslav", "Kramar, Franc", "Pintar, Lovro", "Costa, Etbin", "Koren, Matija", "Grabrijan, Jurij",  "Zagorc, Jože",  "Barbo, Jožef Emanuel",  "Tavčar, Miha",  "Zarnik, Valentin", "Kozler, Peter",  "Svetec, Luka",  "Kramarič, Martin"],
+                "start_date": "1870-06-27",
+                "end_date": "1871-12-12"
+            },
+            "virilist": {
+                "members": ["Vidmar, Jernej"],
+                "start_date": "1870-06-27",
+                "end_date": "1871-12-12"
+            }
+        },
+    "5": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Auersperg, Aleksander", "Blagay, Ludvik", "Dežman, Karel", "Langer, Franc Viktor", "Vesteneck, Julij", "Margheri, Albin", "Taufferer, Beno", "Rastern, Nikodem", "Savinschegg, Jožef", "Thurn, Hiacint", "Rudež, Franc", "Schaffer, Edvard"],
+                "start_date": "1871-12-15",
+                "end_date": "1877-07-14"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Horak, Janez Nepomuk", "Zupan, Valentin", "Lavrenčič, Andrej"],
+                "start_date": "1871-12-14",
+                "end_date": "1877-07-10"
+            },
+            "mestna_kurija": {
+                "members": ["Suppan, Jožef", "Schrey-Redlwerth, Robert", "Kaltenegger, Friderik", "Irkič, Janez", "Gariboldi, Anton", "Jugovic, Leopold", "Murnik, Janez", "Kotnik, Franc", "Rudež, Karel", "Kromer, Franc", "Braune, Jožef"],
+                "start_date": "1871-12-14",
+                "end_date": "1877-07-10"
+            },
+            "kmečka_kurija": {
+                "members": ["Bleiweis, Janez", "Poklukar, Josip", "Toman, Janez", "Razlag, Radoslav", "Kramar, Franc", "Pintar, Lovro", "Robič, Luka", "Costa, Etbin", "Koren, Matija", "Obreza, Adolf", "Grasselli, Peter", "Grabrijan, Jurij", "Lavrenčič, Matej", "Zagorc, Jože", "Barbo, Jožef Emanuel", "Tavčar, Miha", "Zarnik, Valentin", "Kozler, Peter", "Svetec, Luka", "Pakiž, Primož", "Kramarič, Martin"],
+                "start_date": "1871-12-12",
+                "end_date": "1877-07-07"
+            },
+            "virilist": {
+                "members": ["Vidmar, Jernej", "Pogačar, Janez"],
+                "start_date": "1871-12-12",
+                "end_date": "1877-07-07"
+            }
+        },
+    "6": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Blagay, Ludvik", "Dežman, Karel", "Vesteneck, Julij", "Langer, Franc Viktor", "Laschan, Anton", "Luckmann, Karel", "Savinschegg, Jožef", "Taufferer, Beno", "Thurn, Gustav", "Gutmannsthal, Ludvik", "Vesteneck, Julij"],
+                "start_date": "1877-07-14",
+                "end_date": "1883-06-15"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Dreo, Aleksander", "Schaffer, Adolf"],
+                "start_date": "1877-07-10",
+                "end_date": "1883-06-12"
+            },
+            "mestna_kurija": {
+                "members": ["Kaltenegger, Friderik", "Schrey-Redlwerth, Robert", "Gariboldi, Anton", "Šavnik, Karel", "Kecel, Janez", "Deu, Edvard", "Hočevar, Martin", "Ledenig, Julij"],
+                "start_date": "1877-07-10",
+                "end_date": "1883-06-12"
+            },
+            "kmečka_kurija": {
+                "members": ["Bleiweis, Janez", "Robič, Luka", "Bleiweis, Karel", "Svetec, Luka", "Detela, Oton", "Klun, Karel", "Poklukar, Josip", "Vošnjak, Josip", "Zarnik, Valentin", "Lavrenčič, Matej", "Pfeifer, Viljem", "Barbo, Jožef Emanuel", "Potočnik, Franc", "Koblar, Alojzij", "Grasselli, Peter", "Dollhof, Viljem", "Pakiž, Primož", "Navratil, Anton"],
+                "start_date": "1877-07-07",
+                "end_date": "1883-06-09"
+            },
+            "virilist": {
+                "members": ["Pogačar, Janez"],
+                "start_date": "1877-07-07",
+                "end_date": "1883-06-09"
+            }
+        },
+    "7": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Auersperg, Ervin", "Blagay, Ludvik", "Dežman, Karel", "Gutmannsthal, Ludvik", "Luckmann, Karel", "Mauer, Gustav", "Schrey-Redlwerth, Robert", "Schwegel, Jožef", "Taufferer, Beno", "Zois, Alfonz", "Liechtenberg, Leopold"],
+                "start_date": "1883-06-15",
+                "end_date": "1889-08-12"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Murnik, Janez", "Kušar, Jožef", "Thurn, Gustav"],
+                "start_date": "1883-06-12",
+                "end_date": "1889-07-08"
+            },
+            "mestna_kurija": {
+                "members": ["Grasselli, Peter", "Mosché, Alfonz", "Schneid, Josip", "Stegnar, Srečko", "Detela, Oton", "Samec, Maks", "Dolenec, Henrik", "Kraigher, Alojz", "Šuklje, Franc", "Braune, Jožef", "Faber, Ernest", "Višnikar, Franc"],
+                "start_date": "1883-06-12",
+                "end_date": "1889-07-08"
+            },
+            "kmečka_kurija": {
+                "members": ["Bleiweis, Karel", "Robič, Luka", "Kersnik, Janko", "Klun, Karel", "Mohar, Blaž", "Poklukar, Josip", "Vošnjak, Josip", "Zarnik, Valentin", "Obreza, Adolf", "Kavčič, Hinko", "Lavrenčič, Matej", "Pfeifer, Viljem", "Papež, Franc", "Šterbenc, Jurij", "Svetec, Luka", "Pakiž, Primož", "Rudež, Karel", "Hren, Jakob", "Deu, Edvard"],
+                "start_date": "1883-06-09",
+                "end_date": "1889-07-04"
+            },
+            "virilist": {
+                "members": ["Pogačar, Janez", "Missia, Jakob"],
+                "start_date": "1883-06-09",
+                "end_date": "1889-07-04"
+            }
+        },
+    "8": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton", "Auersperg, Ervin", "Auersperg, Leon", "Liechtenberg, Leopold", "Luckmann, Karel", "Rechbach, Friderik", "Schaffer, Adolf", "Schwegel, Jožef", "Taufferer, Beno", "Wurzbach, Alfonz", "Langer, Franc Anton"],
+                "start_date": "1889-08-12",
+                "end_date": "1895-11-28"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Klein, Anton", "Souvan, Franc ml.", "Bleiweis, Karel"],
+                "start_date": "1889-07-08",
+                "end_date": "1895-11-25"
+            },
+            "mestna_kurija": {
+                "members": ["Grasselli, Peter", "Hribar, Ivan", "Stegnar, Srečko", "Tavčar, Ivan", "Murnik, Janez", "Gorup, Josef", "Lenarčič, Josip", "Šuklje, Franc", "Braune, Robert"],
+                "start_date": "1889-07-08",
+                "end_date": "1895-11-25"
+            },
+            "kmečka_kurija": {
+                "members": ["Ogorelc, Vinko", "Povše, Franc", "Kersnik, Janko", "Detela, Oton", "Klun, Karel", "Poklukar, Josip", "Mesar, Janez",  "Kavčič, Hinko",  "Vošnjak, Josip",  "Kraigher, Jurij",  "Arko, Franc",  "Lavrenčič, Matej",  "Pfeifer, Viljem",  "Svetec, Luka",  "Papež, Franc",  "Žitnik, Ignacij", "Višnikar, Franc", "Pakiž, Primož", "Dragoš, Miko"],
+                "start_date": "1889-07-04",
+                "end_date": "1895-11-21"
+            },
+            "virilist": {
+                "members": ["Missia, Jakob"],
+                "start_date": "1889-07-04",
+                "end_date": "1895-11-21"
+            }
+        },
+    "9": {
+            "veleposest": {
+                "members": ["Auersperg, Ervin", "Auersperg, Leon", "Barbo, Jožef Anton", "Langer, Franc Anton", "Lenkh, Feliks", "Liechtenberg, Leopold", "Luckmann, Karel", "Schaffer, Adolf", "Schwegel, Jožef", "Wurzbach, Alfonz", "Rechbach, Friderik", "Ulm, Anton"],
+                "start_date": "1895-11-28",
+                "end_date": "1901-09-24"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Kersnik, Janko", "Perdan, Ivan", "Klein, Anton", "Kušar, Jožef"],
+                "start_date": "1895-11-25",
+                "end_date": "1901-09-19"
+            },
+            "mestna_kurija": {
+                "members": ["Hribar, Ivan", "Grasselli, Peter", "Majaron, Danilo", "Globočnik, Viktor", "Šubic, Ivan", "Murnik, Janez",  "Lenarčič, Josip",  "Tavčar, Ivan",  "Loy, Alois"],
+                "start_date": "1895-11-25",
+                "end_date": "1901-09-19"
+            },
+            "kmečka_kurija": {
+                "members": ["Povše, Franc",  "Jelovšek, Gabrijel",  "Kajdiž, Tomaž",  "Detela, Oton",  "Kalan, Andrej",  "Ažman, Janez",  "Modic, Fran",  "Zelen, Jože",  "Klun, Karel",  "Lavrenčič, Matej",  "Božič, Janez",  "Pfeifer, Viljem",  "Papež, Franc",  "Žitnik, Ignacij",  "Košak, Franc",  "Klun, Karel",  "Pakiž, Primož", "Višnikar, Franc", "Schweiger, Franc"],
+                "start_date": "1895-11-21",
+                "end_date": "1901-09-12"
+            },
+            "virilist": {
+                "members": ["Missia, Jakob", "Jeglič, Anton Bonaventura"],
+                "start_date": "1895-11-21",
+                "end_date": "1901-09-12"
+            }
+        },
+    "10": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton ml.", "Barbo, Jožef Anton", "Langer, Franc Anton", "Liechtenberg, Leopold", "Luckmann, Karel", "Rechbach, Friderik", "Schaffer, Adolf", "Schwegel, Jožef", "Ulm, Anton", "Wurzbach, Alfonz", "Galle, Franc", "Margheri, Rudolf", "Born, Karel", "Codelli, Anton"],
+                "start_date": "1901-09-24",
+                "end_date": "1908-03-06"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Kušar, Jožef", "Supančič, Filip", "Majaron, Danilo"],
+                "start_date": "1901-09-19",
+                "end_date": "1908-02-28"
+            },
+            "mestna_kurija": {
+                "members": ["Hribar, Ivan", "Grasselli, Peter", "Arko, Mihael", "Pirc, Ciril", "Ferjančič, Andrej", "Arko, Franc", "Tavčar, Ivan", "Schöppl, Anton"],
+                "start_date": "1901-09-19",
+                "end_date": "1908-02-28"
+            },
+            "kmečka_kurija": {
+                "members": ["Povše, Franc",  "Šušteršič, Ivan",  "Mejač, Andrej",  "Detela, Oton",  "Brejc, Janko",  "Demšar, Franc",  "Pogačnik, Josip",  "Krek, Janez",  "Drobnič, Franc",  "Božič, Janez",  "Dular, Jožef",  "Žitnik, Ignacij",  "Košak, Franc",  "Pakiž, Primož", "Schweitzer, Viljem",  "Šuklje, Franc", "Pfeifer, Viljem", "Jaklič, Fran"],
+                "start_date": "1901-09-12",
+                "end_date": "1908-02-21"
+            },
+            "virilist": {
+                "members": ["Jeglič, Anton Bonaventura"],
+                "start_date": "1901-09-12",
+                "end_date": "1908-02-21"
+            }
+        },
+    "11": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton ml.", "Barbo, Jožef Anton", "Born, Karel", "Codelli, Anton", "Galle, Franc", "Liechtenberg, Leopold", "Margheri, Rudolf", "Rechbach, Friderik", "Schwegel, Jožef", "Windischgräz, Hugo", "Lichtenberg, Henrik", "Mulley, Karel"],
+                "start_date": "1908-03-06",
+                "end_date": "1913-12-22"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Supančič, Filip", "Novak, Fran"],
+                "start_date": "1908-02-28",
+                "end_date": "1913-12-16"
+            },
+            "mestna_kurija": {
+                "members": ["Tavčar, Ivan", "Triller, Karel", "Oražen, Ivan", "Knez, Ivan", "Reisner, Josip", "Ribnikar, Adolf", "Gangl, Engelbert", "Pirc, Ciril", "Vilfan, Ivan Janko", "Gregorič, Vinko", "Lenarčič, Josip", "Plantan, Ivan",  "Višnikar, Franc",  "Eger, Ferdinand"],
+                "start_date": "1908-02-28",
+                "end_date": "1913-12-16"
+            },
+            "splošna_kurija": {
+                "members": ["Turk, Josip", "Dimnik, Mihael", "Piber, Janez", "Jarc, Evgen", "Lavrenčič, Ivan", "Kobi, Anton", "Ravnikar, Jernej", "Zajec, Ivan", "Hladnik, Janez Ivan", "Pegan, Vladimir"],
+                "start_date": "1908-12-14",
+                "end_date": "1913-12-01"
+            },
+            "kmečka_kurija": {
+                "members": ["Šušteršič, Ivan", "Povše, Franc", "Demšar, Franc", "Krek, Janez", "Zabret, Janko", "Pogačnik, Josip", "Žitnik, Ignacij", "Drobnič, Franc", "Lavrenčič, Janez", "Perhavec, Bogomir", "Dular, Jožef", "Košak, Franc", "Mandelj, Josip", "Lampe, Evgen", "Vehovec, Josip", "Jaklič, Fran", "Bartol, Franc", "Šuklje, Franc", "Dermastia, Karel"],
+                "start_date": "1908-02-21",
+                "end_date": "1913-12-09"
+            },
+            "virilist": {
+                "members": ["Jeglič, Anton Bonaventura"],
+                "start_date": "1908-02-21",
+                "end_date": "1913-12-09"
+            }
+        },
+    "12": {
+            "veleposest": {
+                "members": ["Apfaltrern, Marija Oton ml.", "Barbo, Jožef Anton", "Born, Karel", "Galle, Franc", "Liechtenberg, Leopold", "Margheri, Rudolf", "Mulley, Karel", "Rechbach, Friderik", "Windischgräz, Hugo", "Lichtenberg, Henrik"],
+                "start_date": "1913-12-22",
+                "end_date": "1918-11-04"
+            },
+            "trgovsko_obrtna_zbornica": {
+                "members": ["Ravnihar, Vladimir", "Šuklje, Milan"],
+                "start_date": "1913-12-16",
+                "end_date": "1918-11-04"
+            },
+            "mestna_kurija": {
+                "members": ["Novak, Fran", "Reisner, Josip", "Tavčar, Ivan", "Ribnikar, Adolf", "Gangl, Engelbert", "Triller, Karel", "Gregorič, Vinko",  "Lavrenčič, Ivan", "Mazelle, Julij", "Eger, Ferdinand"],
+                "start_date": "1913-12-16",
+                "end_date": "1918-11-04"
+            },
+            "splošna_kurija": {
+                "members": ["Turk, Josip",  "Dimnik, Mihael",  "Piber, Janez",  "Jarc, Evgen",  "Lavrenčič, Ivan",  "Kobi, Anton",  "Ravnikar, Jernej",  "Zajec, Ivan",  "Hladnik, Janez Ivan", "Pegan, Vladimir", "Mihelčič, Alojzij", "Matjašič, Martin", "Pirc, Ciril", "Višnikar, Franc", "Jaklič, Fran"],
+                "start_date": "1913-12-01",
+                "end_date": "1918-11-04"
+            },
+            "kmečka_kurija": {
+                "members": ["Šušteršič, Ivan",  "Povše, Franc",  "Demšar, Franc",  "Krek, Janez",  "Zabret, Janez Ivan",  "Pogačnik, Josip",  "Žitnik, Ignacij",  "Drobnič, Franc", "Gostinčar, Josip",  "Perhavec, Bogomir", "Zurc, Josip", "Košak, Franc", "Lampe, Evgen", "Vehovec, Josip", "Dermastia, Karel", "Lovšin, Anton", "Škulj, Karel"],
+                "start_date": "1913-12-09",
+                "end_date": "1918-11-04"
+            },
+            "virilist": {
+                "members": ["Jeglič, Anton Bonaventura"],
+                "start_date": "1913-12-09",
+                "end_date": "1918-11-04"
+            }
+        }
+}

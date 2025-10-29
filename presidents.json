@@ -1,0 +1,164 @@
+{
+  "presidents": [
+    {
+      "name": "Karl Ulepitsch plem. Krainfels",
+      "start_date": "1861-03-29",
+      "end_date": "1862-07-23",
+      "title": "dr.",
+      "DOB": "1810-02-25",
+      "place-of-birth": "Žužemberk",
+      "DOD": "1862-07-23",
+      "place-of-death": "Karlovi vari"
+    },
+    {
+      "name": "Janez Nepomuk Schloisnigg",
+      "start_date": "1862-10-17",
+      "end_date": "1865-11-12",
+      "title": "baron",
+      "DOB": "1809-02-24",
+      "place-of-birth": "",
+      "DOD": "1885-11-03",
+      "place-of-death": "Salzburg"
+    },
+    {
+      "name": "Eduard Bach",
+      "start_date": "1865-11-12",
+      "end_date": "1867-04-18",
+      "DOB": "1814-12-21",
+      "place-of-birth": "Loosdorf",
+      "DOD": "1884-02-08",
+      "place-of-death": "Dunaj",
+      "title": "baron"
+    },
+    {
+      "name": "Sigmund Conrad plem. Evbesfeld",
+      "start_date": "1867-04-18",
+      "end_date": "1871-05-19",
+      "title": "baron",
+      "DOB": "1841-08-11",
+      "place-of-birth": "Kainberg",
+      "DOD": "1895-07-09",
+      "place-of-death": "Gradec"
+    },
+    {
+      "name": "Karl Wurzbach plem. Tannenberg",
+      "start_date": "1871-05-19",
+      "end_date": "1872-06-27",
+      "title": "dr.",
+      "DOB": "1809-10-28",
+      "place-of-birth": "Ljubljana",
+      "DOD": "1886-07-16",
+      "place-of-death": "Ljubljana"
+    },
+    {
+      "name": "Aleksander Auersperg",
+      "start_date": "1872-07-27",
+      "end_date": "1874-03-19",
+      "naziv": "grof",
+      "DOB": "1834-11-02",
+      "kraj rojstva": "Ljubljana",
+      "DOD": "1874-03-19",
+      "kraj smrti": "Pevm pri Gorici"
+    },
+    {
+      "name": "Lothar Metternich",
+      "start_date": "1874-03-20",
+      "end_date": "1874-07-07",
+      "title": "knez",
+      "DOB": "1837-09-13",
+      "place-of-birth": "Viden",
+      "DOD": "1904-10-02",
+      "place-of-death": "Viden"
+    },
+    {
+      "name": "Bohuslav Widmann",
+      "start_date": "1874-07-07",
+      "end_date": "1875-05-30",
+      "title": "vitez",
+      "DOB": "1836-03-12",
+      "place-of-birth": "Olomuc",
+      "DOD": "1911-06-09",
+      "place-of-death": "Dunaj"
+    },
+    {
+      "name": "Bohuslav Widmann",
+      "start_date": "1875-05-30",
+      "end_date": "1877-12-09",
+      "title": "vitez",
+      "DOB": "1836-03-12",
+      "place-of-birth": "Olomuc",
+      "DOD": "1911-06-09",
+      "place-of-death": "Dunaj"
+    },
+    {
+      "name": "Anton Schoppl Sonnwalden",
+      "start_date": "1877-12-09",
+      "end_date": "1878-04-25",
+      "title": "dr., vitez",
+      "DOB": "1814-10-14",
+      "place-of-birth": "Spannenberg",
+      "DOD": "1888-11-08",
+      "place-of-death": "Dunaj"
+    },
+    {
+      "name": "Franc Kallina pl. Urbanow",
+      "start_date": "1878-03-02",
+      "end_date": "1880-03-18",
+      "title": "vitez",
+      "DOB": "1821-04-13",
+      "place-of-birth": "Moravska",
+      "DOD": "1880-07-10",
+      "place-of-death": "Brno"
+    },
+    {
+      "name": "Andrej Winkler",
+      "start_date": "1880-03-18",
+      "end_date": "1892-10-07",
+      "title": "baron",
+      "DOB": "1825-11-10",
+      "place-of-birth": "Nemci",
+      "DOD": "1916-03-16",
+      "place-of-death": "Gradec"
+    },
+    {
+      "name": "Viktor Hein",
+      "start_date": "1892-10-07",
+      "end_date": "1893-06-07",
+      "title": "baron",
+      "DOB": "1850-02-01",
+      "place-of-birth": "Opava",
+      "DOD": "1914-12-06",
+      "place-of-death": "Dunaj"
+    },
+    {
+      "name": "Viktor Hein",
+      "start_date": "1893-06-07",
+      "end_date": "1905-09-25",
+      "title": "baron",
+      "DOB": "1850-02-01",
+      "place-of-birth": "Opava",
+      "DOD": "1914-12-06",
+      "place-of-death": "Dunaj"
+    },
+    {
+      "name": "Viktor Hein",
+      "start_date": "1893-06-07",
+      "end_date": "1905-09-25",
+      "title": "baron",
+      "DOB": "1850-02-01",
+      "place-of-birth": "Opava",
+      "DOD": "1914-12-06",
+      "place-of-death": "Dunaj"
+    },
+    {
+      "name": "Henrik Attems-Heiligenkreuz",
+      "start_date": "1916-04-18",
+      "end_date": "1918-10-31",
+      "title": "grof",
+      "DOB": "1858-10-13",
+      "place-of-birth": "Šopronj",
+      "DOD": "1937-01-12",
+      "place-of-death": "Gradec"
+    }
+  ]
+}

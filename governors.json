@@ -1,0 +1,141 @@
+{
+    "governors": [
+    {
+      "term": 1,
+      "governor": "Codelli, Anton",
+      "governor_elected": "1861-04-03",
+      "deputy": "Wurzbach, Karel",
+      "deputy_elected": "1861-04-03"
+    },
+    {
+      "term": 1,
+      "governor": "Wurzbach, Karel",
+      "governor_elected": "1866-11-15",
+      "deputy": "Suppan, Jožef",
+      "deputy_elected": "1866-11-15"    
+    },
+    {
+      "term": 2,
+      "governor": "Codelli, Anton",
+      "governor_elected": "1867-02-15",
+      "deputy": "Costa, Etbin",
+      "deputy_elected": "1867-02-15"
+    },
+    {
+      "term": 3,
+      "governor": "Codelli, Anton",
+      "governor_elected": "1867-04-04",
+      "deputy": "Terpinc, Fidelis",
+      "deputy_elected": "1867-04-04",
+      "deputy_2": "Kozler, Peter",
+      "deputy_2_elected": "1868-07-28"
+    },
+    {
+      "term": 4,
+      "governor": "Codelli, Anton",
+      "governor_elected": "1870-08-16",
+      "deputy": "Kozler, Peter",
+      "deputy_elected": "1870-08-16"
+    },
+    {
+      "term": 4,
+      "governor": "Razlag, Radoslav",
+      "governor_elected": "1871-08-11",
+      "deputy": "Kozler, Peter",
+      "deputy_elected": "1870-08-16"
+    },
+    {
+      "term": 5,
+      "governor": "Auersperg, Aleksander",
+      "governor_elected": "1871-12-16",
+      "deputy": "Kozler, Peter",
+      "deputy_elected": "1871-12-16"
+    },
+    {
+      "term": 5,
+      "governor": "Kaltenegger, Friderik",
+      "governor_elected": "1872-10-10",
+      "deputy": "Kozler, Peter",
+      "deputy_elected": "1871-12-16"
+    },
+    {
+      "term": 6,
+      "governor": "Kaltenegger, Friderik",
+      "governor_elected": "1878-09-07",
+      "deputy": "Bleiweis, Janez",
+      "deputy_elected": "1878-09-07"
+    },
+    {
+      "term": 6,
+      "governor": "Thurn, Gustav",
+      "governor_elected": "1881-09-16",
+      "deputy": "Grasselli, Peter",
+      "deputy_elected": "1881-09-29"
+    },
+    {
+      "term": 7,
+      "governor": "Thurn, Gustav",
+      "governor_elected": "1883-06-23",
+      "deputy": "Grasselli, Peter",
+      "deputy_elected": "1883-06-23"
+    },
+    {
+      "term": 7,
+      "governor": "Poklukar, Josip",
+      "governor_elected": "1888-08-25",
+      "deputy": "Grasselli, Peter",
+      "deputy_elected": "1883-06-23"
+    },
+    {
+      "term": 8,
+      "governor": "Poklukar, Josip",
+      "governor_elected": "1889-09-02",
+      "deputy": "Apfaltrern, Marija Oton",
+      "deputy_elected": "1889-09-02"
+    },
+    {
+      "term": 8,
+      "governor": "Detela, Oton",
+      "governor_elected": "1891-07-30",
+      "deputy": "Apfaltrern, Marija Oton",
+      "deputy_elected": "1889-09-02"
+    },
+    {
+      "term": 9,
+      "governor": "Detela, Oton",
+      "governor_elected": "1895-12-16",
+      "deputy": "Auersperg, Leon",
+      "deputy_elected": "1895-12-16",
+      "deputy_2": "Liechtenberg, Leopold",
+      "deputy_2_elected": "1897-12-14"
+    },
+    {
+      "term": 10,
+      "governor": "Detela, Oton",
+      "governor_elected": "1901-07-21",
+      "deputy": "Liechtenberg, Leopold",
+      "deputy_elected": "1901-07-21"
+    },
+    {
+      "term": 11,
+      "governor": "Šuklje, Franc",
+      "governor_elected": "1908-03-22",
+      "deputy": "Liechtenberg, Leopold",
+      "deputy_elected": "1908-03-22"
+    },
+    {
+      "term": 11,
+      "governor": "Šušteršič, Ivan",
+      "governor_elected": "1912-01-12",
+      "deputy": "Liechtenberg, Leopold",
+      "deputy_elected": "1908-03-22"
+    },
+    {
+      "term": 12,
+      "governor": "Šušteršič, Ivan",
+      "governor_elected": "1913-12-29",
+      "deputy": "Liechtenberg, Leopold",
+      "deputy_elected": "1913-12-29"
+    }
+    ]
+}

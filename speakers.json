@@ -1,0 +1,4380 @@
+{
+    "members": [
+        {
+            "name": "Ambrož, Mihael",
+            "name_german": "Ambrosch, Michael",
+            "profession": "župan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1864-04-25"
+                }
+            }
+        },
+        {
+            "name": "Apfaltrern, Marija Oton",
+            "name_german": "Apfaltrer von Apfaltrern, Maria Otto",
+            "name_full": "baron Marija Oton Apfaltrern",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-08-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                }
+            }
+        },
+        {
+            "name": "Apfaltrern, Marija Oton ml.",
+            "name_german": "Apfaltrer von Apfaltrern, Maria Otto jun.",
+            "profession": "veleposestnik",
+            "terms": {
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Arko, Franc",
+            "name_german": "Arko, Franz",
+            "profession": "posestnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Arko, Mihael",
+            "name_german": "Arko, Michael",
+            "profession": "župnijski dekan",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Auersperg, Aleksander",
+            "name_full": "grof Aleksander Auersperg",
+            "name_german": "Auersperg, Alexander",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "funkcija": "deželni predsednik",
+            "terms": {
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1869-10-18",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1874-03-19"
+                }
+            }
+        },
+        {
+            "name": "Auersperg, Anton",
+            "name_full": "grof Anton Alexander Auersperg",
+            "name_german": "Auersperg, Anton Alexander",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "function": "tajni svetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                }
+            }
+        },
+        {
+            "name": "Auersperg, Ervin",
+            "name_full": "grof Ervin Auersperg",
+            "name_german": "Auersperg, Erwin",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1884-08-27",
+                    "end_date": "1889-08-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1898-11-06"
+                }
+            }
+        },
+        {
+            "name": "Auersperg, Gustav",
+            "name_full": "grof Gustav Auersperg",
+            "name_german": "Auersperg, Gustau",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1865-11-17"
+                }
+            }
+        },
+        {
+            "name": "Auersperg, Leon",
+            "name_german": "Auersperg, Leo",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1897-11-26"
+                }
+            }
+        },
+        {
+            "name": "Ažman, Janez",
+            "name_german": "Ažman, Johann",
+            "profession": "župnik",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Barbo, Jožef Anton",
+            "name_full": "grof Jožef Anton Barbo",
+            "name_german": "Barbo-Waxenstein, Josef Anton",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Barbo, Jožef Emanuel",
+            "name_full": "grof Jožef Emanuel Barbo",
+            "name_german": "Barbo-Waxenstein, Josef Emanuel",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1879-11-23"
+                }
+            }
+        },
+        {
+            "name": "Blagay, Ludvik",
+            "name_full": "grof Ludvik Blagay-Ursini",
+            "name_german": "Blagay-Ursini, Ludwig",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-09-12",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1883-09-08"
+                }
+            }
+        },
+        {
+            "name": "Bleiweis, Janez",
+            "name_full": "dr. Janez Bleiweis",
+            "name_german": "Bleiweis-Trsteniški, Johann",
+            "profession": "profesor in živinozdravnik",
+            "title": "dr., vitez",
+            "terms": {
+                "1": {
+                    "faction": "slovenska",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1881-11-29"
+                }
+            }
+        },
+        {
+            "name": "Bleiweis, Karel",
+            "name_full": "dr. Karel Bleiweis",
+            "name_german": "Bleiweis-Trsteniški, Karl",
+            "profession": "zdravnik",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-10-09",
+                    "end_date": "1895-11-25"
+                }
+            }
+        },
+        {
+            "name": "Born, Karel",
+            "name_full": "baron dr. Karel von Born",
+            "name_german": "von Born, Karl",
+            "profession": "lastnik nepremičnin",
+            "title": "baron",
+            "terms": {
+                "10": {
+                    "faction": "",
+                    "start_date": "1906-11-10",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Božič, Janez",
+            "name_full": "dr. Janez Božič",
+            "name_german": "Božič, Johann",
+            "profession": "lastnik nepremičnin",
+            "title": "dr.",
+            "terms": {
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Braune, Jožef",
+            "name_full": "dr. Jožef Braune",
+            "name_german": "Braune, Josef",
+            "profession": "farmacevt",
+            "terms": {
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                }
+            }
+        },
+        {
+            "name": "Braune, Robert",
+            "profession": "nepremičninar",
+            "terms": {
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                }
+            }
+        },
+        {
+            "name": "Brejc, Janko",
+            "name_german": "Brejc, Johann",
+            "profession": "odvetnik",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1903-12-31"
+                }
+            }
+        },
+        {
+            "name": "Brolih, Janez",
+            "name_german": "Janez Brolih (Brolich)",
+            "name_full": "Brolich, Johann",
+            "profession": "sodnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                }
+            }
+        },
+        {
+            "name": "Codelli, Anton",
+            "name_full": "baron Anton Codelli-Fahnenfeld II",
+            "name_german": "Codelli-Fahnenfeld, Anton",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1866-11-19"
+                }
+            }
+        },
+        {
+            "name": "Codelli, Anton",
+            "name_full": "baron Anton Codelli-Fahnenfeld III",
+            "name_german": "Codelli-Fahnenfeld, Anton",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "10": {
+                    "faction": "",
+                    "start_date": "1906-11-10",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "",
+                    "start_date": "1908-03-06",
+                    "end_date": "1912-12-31"
+                }
+            }
+        },
+        {
+            "name": "Eybesfeld, Sigmund",
+            "name_full": "baron Sigmund Conrad von Eybesfeld",
+            "name_german": "Conrad-Eibesfeld, Sigismund",
+            "profession": "državni predsednik",
+            "title": "baron",
+            "terms": {
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-08-28"
+                }
+            }
+        },
+        {
+            "name": "Coronini, Karel",
+            "name_full": "grof Karel Coronini",
+            "name_german": "Coronini-Cronberg, Karl",
+            "profession": "veleposestnik",
+            "funkcija": "deželni predsednik",
+            "title": "grof",
+            "terms": {
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1868-08-08"
+                }
+            }
+        },
+        {
+            "name": "Costa, Etbin",
+            "name_full": "dr. Etbin Henrik Costa",
+            "name_german": "Costa, Ethbin Heinrich",
+            "profession": "odvetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1875-01-28"
+                }
+            }
+        },
+        {
+            "name": "Debevc, Jožef",
+            "name_german": "Debevec, Josef",
+            "profession": "trgovec",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1866-10-16",
+                    "end_date": "1867-01-30"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                }
+            }
+        },
+        {
+            "name": "Derbič, Jožef",
+            "name_german": "Derbitsch, Josef",
+            "profession": "župan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                }
+            }
+        },
+        {
+            "name": "Dežman, Karel",
+            "name_full": "Karel Dragotin Dežman",
+            "name_german": "Deschmann, Karl",
+            "profession": "kustos",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                },
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-03-11"
+                }
+            }
+        },
+        {
+            "name": "Detela, Oton",
+            "name_german": "Detela, Otto",
+            "profession": "posestnik",
+            "title": "pl.",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Deu, Edvard",
+            "name_german": "Deu, Eduard",
+            "profession": "odvetnik",
+            "title": "dr.",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                }
+            }
+        },
+        {
+            "name": "Dimnik, Mihael",
+            "profession": "posestnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Dolenec, Henrik",
+            "name_full": "dr. Henrik Hinko Dolenc",
+            "name_german": "Dolenec, Heinrich",
+            "profession": "adjunkt",
+            "title": "dr.",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1886-12-16"
+                }
+            }
+        },
+        {
+            "name": "Dollhof, Viljem",
+            "name_german": "Dollhof, Wilhelm",
+            "profession": "stotnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                }
+            }
+        },
+        {
+            "name": "Dragoš, Miko",
+            "profession": "nepremičninar",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                }
+            }
+        },
+        {
+            "name": "Dreo, Aleksander",
+            "name_german": "Dreo, Alexander",
+            "profession": "trgovec",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Drobnič, Franc",
+            "name_german": "Drobnič, Franz",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }  
+            }
+        },
+        {
+            "name": "Dular, Jožef",
+            "name_german": "Dular, Joseph",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-22",
+                    "end_date": "1913-12-09"
+                }
+            }
+        },
+        {
+            "name": "Eger, Ferdinand",
+            "terms": {
+                "11": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-16"
+                },
+                "12": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Faber, Ernest",
+            "name_german": "Faber, Ernst",
+            "profession": "cesarski gozdar",
+            "terms": {
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-12",
+                    "end_date": "1887-10-14"
+                }
+            }
+        },
+        {
+            "name": "Ferjančič, Andrej",
+            "name_german": "Ferjančič, Andreas",
+            "profession": "sodnik",
+            "terms": {
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Vesteneck, Julij",
+            "name_full": "vitez dr. Julius Fränzl Vesteneck",
+            "name_german": "Fränzl-Vesteneck, Julius",
+            "profession": "veleposestnik",
+            "funkcija": "okrožni glavar",
+            "terms": {
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1876-02-29",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-14"
+                }
+            }
+        },
+        {
+            "name": "Gariboldi, Anton",
+            "profession": "posestnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-27",
+                    "end_date": "1868-10-13"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Gauster, Moriz",
+            "name_german": "Gauster, Moritz",
+            "profession": "zdravnik",
+            "terms": {
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-06-28",
+                    "end_date": "1870-08-22"
+                }
+            }
+        },
+        {
+            "name": "Globočnik, Viktor",
+            "name_german": "Globočnik, Victor",
+            "profession": "notar",
+            "terms": {
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1898-03-04"
+                }
+            }
+        },
+        {
+            "name": "Golob, Matija",
+            "name_german": "Golob, Matthias",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                }
+            }
+        },
+        {
+            "name": "Gorup, Josef",
+            "profession": "trgovec",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1891-09-28"
+                }
+            }
+        },
+        {
+            "name": "Grabrijan, Jurij",
+            "name_german": "Grabrian, Georg",
+            "profession": "župnijski dekan",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1874-08-04"
+                }
+            }
+        },
+        {
+            "name": "Grasselli, Peter",
+            "profession": "hišni posestnik",
+            "terms": {
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                },
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Gregorič, Vinko",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1913-03-04",
+                    "end_date": "1913-12-16"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Gutmannsthal, Ludvik",
+            "name_full": "vitez Ludvik Gutmannsthal",
+            "name_german": "Gutmannsthal-Benvenutti, Ludwig",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1866-01-05",
+                    "end_date": "1867-02-01"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1879-03-29",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-08-12"
+                }
+            }
+        },
+        {
+            "name": "Gutman, Janez",
+            "name_full": "Janez Ivan Gutman",
+            "name_german": "Guttman, Johann",
+            "profession": "podžupan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                }
+            }
+        },
+        {
+            "name": "Höffern, Leopold",
+            "name_german": "Höffern-Saalfeld, Leopold",
+            "profession": "župan",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                }
+            }
+        },
+        {
+            "name": "Horak, Janez Nepomuk",
+            "name_full": "Horak, Johann Nepomuk",
+            "profession": "hišni posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1865-12-02",
+                    "end_date": "1867-01-30"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                }
+            }
+        },
+        {
+            "name": "Hočevar, Martin",
+            "name_full": "Martin Hotschevar (Hočevar)",
+            "name_german": "Hotschevar, Martin",
+            "profession": "posestnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Hren, Jakob",
+            "profession": "sodnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                }
+            }
+        },
+        {
+            "name": "Hribar, Ivan",
+            "name_german": "Hribar, Johann",
+            "profession": "direktor banke",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                },
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Irkič, Janez",
+            "name_german": "Irkič, Johann",
+            "profession": "notar",
+            "terms": {
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1873-11-16"
+                }
+            }
+        },
+        {
+            "name": "Jaklič, Fran",
+            "name_german": "Jaklič, Franz",
+            "profession": "lastnik nepremičnin, učitelj",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Jeglič, Anton Bonaventura",
+            "profession": "knezoškof",
+            "terms": {
+                "9": {
+                    "faction": "",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Jelovšek, Gabrijel",
+            "name_full": "Gabrijel Viktor Jelovšek",
+            "name_german": "Jelovšek, Gabriel",
+            "profession": "trgovec",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Jombart, Julij",
+            "name_full": "Julij Jombart",
+            "name_german": "Jombart, Julius",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                }
+            }
+        },
+        {
+            "name": "Jugovic, Leopold",
+            "profession": "trgovec",
+            "terms": {
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                }
+            }
+        },
+        {
+            "name": "Kajdiž, Tomaž",
+            "name_german": "Kajdiš, Thomas",
+            "profession": "kanonik",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Kalan, Andrej",
+            "name_german": "Kalan, Andreas",
+            "profession": "kanonik",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Kaltenegger, Friderik",
+            "name_full": "Friderik Kaltenegger-Riedhorst",
+            "name_german": "Kaltenegger-Riedhorst, Friedrich",
+            "profession": "finančni tožilec",
+            "terms": {
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Kapelle, Janez",
+            "name_german": "Kapelle, Johann",
+            "profession": "upravitelj",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-04-19",
+                    "end_date": "1867-01-26"
+                }
+            }
+        },
+        {
+            "name": "Kavčič, Hinko",
+            "name_german": "Kavčič, Heinrich",
+            "profession": "nepremičninar",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1893-06-21"
+                }
+            }
+        },
+        {
+            "name": "Kecel, Janez",
+            "name_german": "Kecel, Johann",
+            "profession": "posestnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Kersnik, Janko",
+            "name_german": "Kersnik, Johann",
+            "profession": "posestnik, notar",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1897-07-28"
+                }
+            }
+        },
+        {
+            "name": "Klein, Anton",
+            "profession": "lastnik tiskarne",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1897-11-16",
+                    "end_date": "1901-09-19"
+                }
+            }
+        },
+        {
+            "name": "Klemenčič, Ivan",
+            "name_german": "Klemenčič, Ignaz",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                }
+            }
+        },
+        {
+            "name": "Klun, Karel",
+            "name_german": "Klun, Karl",
+            "profession": "kanonik",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1896-06-08"
+                }
+            }
+        },
+        {
+            "name": "Klun, Vinko",
+            "name_full": "dr. Vincenc Vinko Fereri Klun",
+            "name_german": "Klun, Vincenz",
+            "profession": "veleposestnik",
+            "funkcija": "svetnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-08-20"
+                }
+            }
+        },
+        {
+            "name": "Knez, Ivan",
+            "profession": "trgovec",
+            "terms": {
+                "11": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1908-12-22",
+                    "end_date": "1911-01-01"
+                }
+            }
+        },
+        {
+            "name": "Kobi, Anton",
+            "profession": "veleposestnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Koblar, Alojzij",
+            "name_german": "Koblar, Alois",
+            "profession": "nepremičninar",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                }
+            }
+        },
+        {
+            "name": "Koren, Matija",
+            "name_german": "Koren, Matthias",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1873-12-19"
+                }
+            }
+        },
+        {
+            "name": "Kos, Anton",
+            "profession": "prošt",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                }
+            }
+        },
+        {
+            "name": "Košak, Franc",
+            "name_german": "Košak, Franz",
+            "profession": "posestnik",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Kozler, Janez",
+            "name_german": "Kosler, Johann",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                }
+            }
+        },
+        {
+            "name": "Kozler, Peter",
+            "name_german": "Kosler, Peter",
+            "profession": "nepremičninar",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Kotnik, Franc",
+            "name_german": "Kotnik, Franz",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                }
+            }
+        },
+        {
+            "name": "Kraigher, Alojz",
+            "name_german": "Kraigher, Alois",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                }
+            }
+        },
+        {
+            "name": "Kraigher, Jurij",
+            "name_german": "Kraigher, Georg",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1894-01-05"
+                }
+            }
+        },
+        {
+            "name": "Kramar, Franc",
+            "name_german": "Kramar, Franz",
+            "profession": "kanonik",
+            "terms": {
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Kramarič, Martin",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Krek, Janez",
+            "name_full": "Janez Evangelist Krek",
+            "name_german": "Krek, Johann",
+            "profession": "profesor",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1917-10-08"
+                }
+            }
+        },
+        {
+            "name": "Kromer, Franc",
+            "name_full": "Kromer, Franz",
+            "profession": "svetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                }
+            }
+        },
+        {
+            "name": "Kušar, Jožef",
+            "name_german": "Kušar, Josef",
+            "profession": "trgovec",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1888-08-21",
+                    "end_date": "1889-07-08"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1900-01-20",
+                    "end_date": "1901-09-19"
+                },
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1902-01-12"
+                }
+            }
+        },
+        {
+            "name": "Langer, Franc Viktor",
+            "name_full": "vitez Franc Viktor Langer",
+            "name_german": "Langer-Podgoro, Franz",
+            "title": "vitez",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                },
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1879-09-21"
+                }
+            }
+        },
+        {
+            "name": "Langer, Franc Anton",
+            "name_german": "Langer-Podgoro, Franz Anton",
+            "name_full": "Franz Langer-Podgoro mlajši",
+            "title": "vitez",
+            "profession": "veleposestnik",
+            "terms": {
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1891-10-19",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1904-12-10"
+                }
+            }
+        },
+        {
+            "name": "Laschan, Anton",
+            "name_full": "Laschan-Moorland, Anton",
+            "profession": "veleposestnik",
+            "funkcija": "svetnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                }
+            }
+        },
+        {
+            "name": "Lavrenčič, Andrej",
+            "name_german": "Lavrenčič, Andreas",
+            "profession": "nepremičninar",
+            "terms": {
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1873-11-08",
+                    "end_date": "1877-07-10"
+                }
+            }
+        },
+        {
+            "name": "Lavrenčič, Matej",
+            "name_german": "Lavrenčič, Matthäus",
+            "profession": "nepremičninar",
+            "terms": {
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1897-09-03"
+                }
+            }
+        },
+        {
+            "name": "Lavrenčič, Ivan",
+            "profession": "duhovnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Lavrenčič, Janez",
+            "name_full": "Janez Ivan Lavrenčič",
+            "profession": "gostilničar",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1909-01-11"
+                }
+            }
+        },
+        {
+            "name": "Ledenig, Julij",
+            "name_full": "Julius Ledenig",
+            "profession": "sodnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Lenarčič, Josip",
+            "name_full": "Josef Lenarčič",
+            "profession": "posestnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                },
+                "11": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-01"
+                }
+            }
+        },
+        {
+            "name": "Lenkh, Feliks",
+            "name_full": "Felix Lenkh",
+            "profession": "posestnik",
+            "terms": {
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                }
+            }
+        },
+        {
+            "name": "Lesar, Anton",
+            "name_full": "Anton Leser",
+            "profession": "župan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1861-04-03"
+                }
+            }
+        },
+        {
+            "name": "Liechtenberg, Leopold",
+            "name_german": "Liechtenberg-Janeschitz, Leopold",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1884-08-27",
+                    "end_date": "1889-08-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Lipold, Marko",
+            "name_full": "Marko Vincenc Lipold",
+            "name_german": "Lipold, Markus",
+            "profession": "rudarski svetnik",
+            "terms": {
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                }
+            }
+        },
+        {
+            "name": "Lokar, Konrad",
+            "name_german": "Loker, Konrad",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                }
+            }
+        },
+        {
+            "name": "Loy, Alois",
+            "profession": "posestnik",
+            "terms": {
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                }
+            }
+        },
+        {
+            "name": "Luckmann, Karel",
+            "name_full": "Karl Lambert Luckmann",
+            "name_german": "Luckmann, Karl",
+            "profession": "direktor",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-08-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1906-07-24"
+                }
+            }
+        },
+        {
+            "name": "Luckmann, Lambert",
+            "profession": "trgovec",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1865-11-30"
+                }
+            }
+        },
+        {
+            "name": "Majaron, Danilo",
+            "title": "dr.",
+            "profession": "odvetnik",
+            "terms": {
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1902-06-13",
+                    "end_date": "1901-09-19"
+                }
+            }
+        },
+        {
+            "name": "Margheri, Albin",
+            "name_full": "grof Albin Margheri",
+            "name_german": "Margheri-Commandona, Albin",
+            "title": "grof",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1866-12-03",
+                    "end_date": "1867-02-01"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                }
+            }
+        },
+        {
+            "name": "Margheri, Rudolf",
+            "profession": "veleposestnik",
+            "title": "grof, vitez",
+            "terms": {
+                "10": {
+                    "faction": "",
+                    "start_date": "1905-04-17",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Mauer, Gustav",
+            "profession": "odvetnik",
+            "terms": {
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-08-12"
+                }
+            }
+        },
+        {
+            "name": "Mazelle, Julij",
+            "terms": {
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-16",
+                    "end_date": "1914-02-24"
+                }
+            }
+        },
+        {
+            "name": "Mejač, Andrej",
+            "name_german": "Mejač, Andreas",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Mesar, Janez",
+            "name_german": "Mesar, Johann",
+            "profession": "župnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-05-03"
+                }
+            }
+        },
+        {
+            "name": "Missia, Jakob",
+            "profession": "knezoškof",
+            "terms": {
+                "7": {
+                    "faction": "",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Modic, Fran",
+            "name_german": "Modic, Franz",
+            "profession": "posestnik",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Mohar, Blaž",
+            "name_german": "Mohar, Primus",
+            "profession": "nepremičninar",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                }
+            }
+        },
+        {
+            "name": "Mosché, Alfonz",
+            "name_german": "Mosché, Alfons",
+            "profession": "odvetnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                }
+            }
+        },
+        {
+            "name": "Mulej, Alojz",
+            "name_german": "Mulley, Alois",
+            "profession": "župan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-27",
+                    "end_date": "1868-09-05"
+                }
+            }
+        },
+        {
+            "name": "Mulley, Karel",
+            "profession": "sodni svetnik",
+            "terms": {
+                "11": {
+                    "faction": "",
+                    "start_date": "1912-09-28",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Murnik, Janez",
+            "name_full": "Ivan Janez Murnik",
+            "name_german": "Murnik, Johann",
+            "profession": "tajnik",
+            "terms": {
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                }
+            }
+        },
+        {
+            "name": "Navratil, Anton",
+            "profession": "posestnik",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                }
+            }
+        },
+        {
+            "name": "Novak, Fran",
+            "profession": "odvetnik",
+            "title": "dr.",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-16"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Obreza, Karel",
+            "name_german": "Obresa, Karl",
+            "profession": "nepremičninar",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-27",
+                    "end_date": "1867-04-06"
+                }
+            }
+        },
+        {
+            "name": "Obreza, Adolf",
+            "profession": "posestnik",
+            "terms": {
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1886-09-26"
+                }
+            }
+        },
+        {
+            "name": "Ogorelc, Vinko",
+            "name_german": "Ogorelc, Vinzenz",
+            "profession": "posestnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                }
+            }
+        },
+        {
+            "name": "Pakiž, Primož",
+            "name_german": "Pakiž, Primus",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1905-10-28"
+                }
+            }
+        },
+        {
+            "name": "Papež, Franc",
+            "name_german": "Papež, Franz",
+            "profession": "odvetnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Pegan, Vladimir",
+            "name_full": "Vladimir Vladislav Pegan",
+            "profession": "odvetnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Perdan, Ivan",
+            "name_german": "Perdan, Johann",
+            "profession": "trgovec",
+            "terms": {
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1899-12-04"
+                }
+            }
+        },
+        {
+            "name": "Pfeifer, Viljem",
+            "name_german": "Pfeifer, Wilhelm",
+            "profession": "nepremičninar",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Piber, Janez",
+            "profession": "župnik",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Pinder, Matija",
+            "name_german": "Pinder, Matthäus",
+            "profession": "župan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1863-03-06"
+                }
+            }
+        },
+        {
+            "name": "Pintar, Lovro",
+            "name_german": "Pintar, Lorenz",
+            "profession": "župnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1874-09-09"
+                }
+            }
+        },
+        {
+            "name": "Pirc, Ciril",
+            "name_german": "Pirc, Cyrill",
+            "profession": "nepremičninar",
+            "terms": {
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                },
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-16"
+                }
+            }
+        },
+        {
+            "name": "Pogačar, Janez",
+            "name_full": "Janez Krizostomus (Zlatoust) Pogačar",
+            "name_german": "Pogačar, Johann Chrysosthomus",
+            "profession": "knezoškof",
+            "terms": {
+                "5": {
+                    "faction": "",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                }
+            }
+        },
+        {
+            "name": "Pogačnik, Josip",
+            "name_german": "Pogačnik, Josef",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Poklukar, Josip",
+            "name_german": "Poklukar, Josef",
+            "profession": "lastnik tiskarne",
+            "terms": {
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1891-03-17"
+                }
+            }
+        },
+        {
+            "name": "Potočnik, Franc",
+            "name_german": "Potočnik, Franz",
+            "profession": "gradbeni inšpektor",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                }
+            }
+        },
+        {
+            "name": "Povše, Franc",
+            "name_german": "Povše, Franz",
+            "profession": "posestnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-09",
+                    "end_date": "1916-01-04"
+                }
+            }
+        },
+        {
+            "name": "Prevc, Valentin",
+            "profession": "odvetnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                }
+            }
+        },
+        {
+            "name": "Rastern, Nikodem",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1875-12-26"
+                }
+            }
+        },
+        {
+            "name": "Ravnihar, Ludvik",
+            "name_german": "Ravnihar, Ludwig",
+            "profession": "namestnik javnega tožilca",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1868-09-23",
+                    "end_date": "1870-06-28"
+                }
+            }
+        },
+        {
+            "name": "Ravnihar, Vladimir",
+            "title": "dr.",
+            "terms": {
+                "12": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Ravnikar, Jernej",
+            "profession": "učitelj",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                }
+            }
+        },
+        {
+            "name": "Razlag, Radoslav",
+            "name_german": "Razlag, Jakob",
+            "profession": "odvetnik",
+            "terms": {
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-03-24"
+                }
+            }
+        },
+        {
+            "name": "Rechbach, Friderik",
+            "name_german": "Rechbach, Friedrich",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1897-12-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Recher, Nikolaj",
+            "name_german": "Recher, Nikolaus",
+            "profession": "trgovec",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                }
+            }
+        },
+        {
+            "name": "Reisner, Josip",
+            "profession": "profesor",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1911-05-16",
+                    "end_date": "1912-01-25"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Ribnikar, Adolf",
+            "profession": "živinozdravnik",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1911-10-31",
+                    "end_date": "1912-01-25"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Robič, Luka",
+            "name_german": "Robič, Lukas",
+            "profession": "davčni inšpektor",
+            "terms": {
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                }
+            }
+        },
+        {
+            "name": "Rozman, Anton",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                }
+            }
+        },
+        {
+            "name": "Rudež, Franc",
+            "name_full": "Franc Rudež (Rudesch)",
+            "name_german": "Rudesch, Franz",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1866-12-03",
+                    "end_date": "1867-02-01"
+                },
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1875-04-07"
+                }
+            }
+        },
+        {
+            "name": "Rudež, Jožef",
+            "name_full": "Jožef Rudež (Rudesch)",
+            "name_german": "Rudesch, Joseph",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                }
+            }
+        },
+        {
+            "name": "Rudež, Karel",
+            "name_full": "Karel Dragotin Rudež",
+            "profession": "posestnik",
+            "terms": {
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1885-01-21"
+                }
+            }
+        },
+        {
+            "name": "Samec, Maks",
+            "name_german": "Samec, Max",
+            "profession": "zdravnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                }
+            }
+        },
+        {
+            "name": "Savinschegg, Jožef",
+            "name_german": "Savinschegg, Josef",
+            "title": "vitez dr.",
+            "profession": "veleposestnik",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-09-12",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                }
+            }
+        },
+        {
+            "name": "Schaffer, Adolf",
+            "title": "dr.",
+            "profession": "zasebnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1905-01-24"
+                }
+            }
+        },
+        {
+            "name": "Schaffer, Edvard",
+            "name_german": "Schaffer, Eduard",
+            "profession": "posestnik",
+            "terms": {
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1874-09-14",
+                    "end_date": "1877-07-14"
+                }
+            }
+        },
+        {
+            "name": "Šavnik, Karel",
+            "name_german": "Šavnik, Karl",
+            "profession": "farmacevt",
+            "terms": {
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                }
+            }
+        },
+        {
+            "name": "Schloissnigg, Janez",
+            "name_full": "Janez Nepomuk Schloissnigg",
+            "name_german": "Schloißnigg, Johann",
+            "profession": "tajni svetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                }
+            }
+        },
+        {
+            "name": "Schneid, Josip",
+            "name_german": "Schneid von Treuenfeld, Josip",
+            "profession": "svetnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1884-09-30"
+                }
+            }
+        },
+        {
+            "name": "Schöppl, Anton",
+            "name_german": "Schoeppl-Sonnwalden, Anton",
+            "profession": "odvetnik",
+            "terms": {
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Schrey, Robert",
+            "name_full": "dr. Robert pl. Redlwerth-Schrey",
+            "name_german": "Schrey-Redlwerth, Robert",
+            "profession": "odvetnik",
+            "terms": {
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-14",
+                    "end_date": "1877-07-10"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-10",
+                    "end_date": "1883-06-12"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1883-10-29"
+                }
+            }
+        },
+        {
+            "name": "Škulj, Karel",
+            "profession": "župnik",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Šubic, Ivan",
+            "name_full": "Ivan Janez Šubic",
+            "name_german": "Šubic, Johann",
+            "profession": "ravnatelj",
+            "terms": {
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                }
+            }
+        },
+        {
+            "name": "Šuklje, Franc",
+            "name_german": "Šuklje, Franz",
+            "profession": "svetnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1906-01-04",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1911-12-30"
+                }
+            }
+        },
+        {
+            "name": "Šušteršič, Ivan",
+            "name_german": "Šušteršič, Johann",
+            "profession": "odvetnik",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Lichtenberg, Henrik",
+            "name_full": "Henrik pl. Schollmayer-Lichtenberg",
+            "name_german": "Schollmayer-Lichtenberg, Henrik",
+            "title": "pl.",
+            "profession": "veleposestnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Schwegel, Jožef",
+            "name_german": "Schwegel, Joseph",
+            "profession": "veleposestnik",
+            "funkcija": "tajni svetnik",
+            "terms": {
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-08-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1908-03-06",
+                    "end_date": "1912-12-31"
+                }
+            }
+        },
+        {
+            "name": "Schweiger, Franc",
+            "name_german": "Schweiger, Franz",
+            "profession": "župnik",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Schweitzer, Viljem",
+            "name_german": "Schweitzer, Wilhelm",
+            "profession": "odvetnik",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                }
+            }
+        },
+        {
+            "name": "Seunig, Jožef",
+            "name_full": "Jožef Friderik Seunig",
+            "name_german": "Seunig, Joseph Friedrich",
+            "profession": "posestnik",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                }
+            }
+        },
+        {
+            "name": "Seunig, Vincenc",
+            "name_german": "Seunig, Vinzenz",
+            "profession": "trgovec",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1865-12-02",
+                    "end_date": "1866-01-31"
+                }
+            }
+        },
+        {
+            "name": "Skedl, Janez",
+            "name_german": "Skedel, Johann",
+            "profession": "odvetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                }
+            }
+        },
+        {
+            "name": "Smola, Anton",
+            "profession": "posestnik",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                }
+            }
+        },
+        {
+            "name": "Souvan, Franz Ksaver",
+            "name_full": "Franz Ksaver Souvan",
+            "name_german": "Souvan, Franz",
+            "profession": "trgovec",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                }
+            }
+        },
+        {
+            "name": "Souvan, Franc ml.",
+            "name_german": "Souvan, Franz junior",
+            "profession": "trgovec",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1889-10-07"
+                }
+            }
+        },
+        {
+            "name": "Stegnar, Srečko",
+            "name_german": "Stegnar, Felix",
+            "profession": "učitelj",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                }
+            }
+        },
+        {
+            "name": "Šterbenc, Jurij",
+            "name_german": "Sterbenc, Georg",
+            "profession": "župnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                }
+            }
+        },
+        {
+            "name": "Strahl, Edvard",
+            "name_full": "Edvard pl. Strahl",
+            "name_german": "Strahl, Eduard",
+            "title": "pl.",
+            "profession": "sodnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1866-09-30"
+                }
+            }
+        },
+        {
+            "name": "Zupan, Valentin",
+            "name_full": "Zupan, Valentin C.",
+            "name_german": "Supan, Valentin C.",
+            "profession": "trgovec",
+            "terms": {
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-14",
+                    "end_date": "1872-12-07"
+                }
+            }
+        },
+        {
+            "name": "Supančič, Filip",
+            "name_german": "Supančič, Philipp",
+            "profession": "stavbni mojster",
+            "terms": {
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                },
+                "11": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-16"
+                }
+            }
+        },
+        {
+            "name": "Suppan, Jožef",
+            "name_german": "Suppan, Josef",
+            "profession": "odvetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1867-01-30"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-27",
+                    "end_date": "1868-09-23"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-06-28",
+                    "end_date": "1871-12-14"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-14",
+                    "end_date": "1874-07-01"
+                }
+            }
+        },
+        {
+            "name": "Svetec, Luka",
+            "name_german": "Svetec, Lukas",
+            "profession": "notar",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1873-09-23"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                }
+            }
+        },
+        {
+            "name": "Taufferer, Beno",
+            "name_german": "Taufferer, Benno",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1876-02-29",
+                    "end_date": "1877-07-14"
+                },
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-08-12"
+                },
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1891-09-02"
+                }
+            }
+        },
+        {
+            "name": "Tavčar, Ivan",
+            "name_german": "Tavčar, Johann",
+            "profession": "odvetnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-08",
+                    "end_date": "1895-11-25"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-25",
+                    "end_date": "1901-09-19"
+                },
+                "10": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1901-09-19",
+                    "end_date": "1908-02-28"
+                }
+            }
+        },
+        {
+            "name": "Tavčar, Miha",
+            "name_german": "Tavčar, Michael",
+            "profession": "župnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Terpinc, Fidelis",
+            "name_german": "Terpinz, Fidelis",
+            "profession": "posestnik",
+            "terms": {
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1869-05-28"
+                }
+            }
+        },
+        {
+            "name": "Thurn, Gustav",
+            "name_german": "Thurn und Valsassina, Gustav",
+            "name_full": "Gustav Thurn-Valsassina",
+            "profession": "veleposestnik",
+            "terms": {
+                "6": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1877-07-14",
+                    "end_date": "1883-06-15"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-19",
+                    "end_date": "1888-07-23"
+                }
+            }
+        },
+        {
+            "name": "Thurn, Hiacint",
+            "name_full": "Thurn-Valsassina, Hyacinth",
+            "title": "grof",
+            "profession": "posestnik",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-28",
+                    "end_date": "1870-07-01"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-12-15"
+                },
+                "5": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1871-12-15",
+                    "end_date": "1877-07-14"
+                }
+            }
+        },
+        {
+            "name": "Toman, Janez",
+            "name_german": "Toman, Johann",
+            "profession": "župnijski dekan",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Toman, Lovro",
+            "profession": "odvetnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-30",
+                    "end_date": "1867-03-27"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                }
+            }
+        },
+        {
+            "name": "Treo, Santo",
+            "name_full": "Santo Treo ml.",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1862-03-03"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1869-03-14"
+                }
+            }
+        },
+        {
+            "name": "Turk, Josip",
+            "profession": "veleposestnik",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Ulepič, Karel",
+            "name_full": "Karel Ullepitsch-Krainfels",
+            "name_german": "Ullepitsch-Krainfels, Karl",
+            "profession": "deželni glavar",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1862-07-23"
+                }
+            }
+        },
+        {
+            "name": "Ulm, Anton",
+            "profession": "posestnik",
+            "terms": {
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1899-01-09",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1905-12-31"
+                }
+            }
+        },
+        {
+            "name": "Vilhar, Miroslav",
+            "name_german": "Vilhar, Friedrich",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1864-03-17"
+                }
+            }
+        },
+        {
+            "name": "Višnikar, Franc",
+            "name_german": "Višnikar, Franz",
+            "profession": "sodnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-12",
+                    "end_date": "1889-07-08"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "11": {
+                    "faction": "narodno-napredna",
+                    "start_date": "1908-08-31",
+                    "end_date": "1911-12-30"
+                }
+            }
+        },
+        {
+            "name": "Vošnjak, Josip",
+            "name_german": "Vošnjak, Josef",
+            "profession": "zdravnik",
+            "terms": {
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1889-07-04"
+                },
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                }
+            }
+        },
+        {
+            "name": "Vehovec, Josip",
+            "name_full": "Josip Janez Ivan Vehovec",
+            "profession": "župan",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1911-03-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Vidmar, Jernej",
+            "name_german": "Widmer, Bartholomäus",
+            "profession": "knezoškof",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Wurzbach, Alfonz",
+            "name_german": "Wurzbach-Tannenberg, Alfons",
+            "profession": "veleposestnik",
+            "terms": {
+                "8": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1889-08-12",
+                    "end_date": "1895-11-28"
+                },
+                "9": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1895-11-28",
+                    "end_date": "1901-09-24"
+                },
+                "10": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1901-09-24",
+                    "end_date": "1908-03-06"
+                }
+            }
+        },
+        {
+            "name": "Wurzbach, Julij",
+            "name_full": "dr. Julij pl. Wurzbach",
+            "name_german": "Wurzbach-Tannenberg, Julius",
+            "profession": "veleposestnik",
+            "terms": {
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                }
+            }
+        },
+        {
+            "name": "Wurzbach, Karel",
+            "name_full": "dr. Karel pl. Wurzbach",
+            "name_german": "Wurzbach-Tannenberg, Karl",
+            "title": "dr., pl.",
+            "profession": "posestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                },
+                "2": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-02-01",
+                    "end_date": "1867-03-28"
+                },
+                "3": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1867-03-27",
+                    "end_date": "1870-06-28"
+                },
+                "4": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1870-07-01",
+                    "end_date": "1871-08-12"
+                }
+            }
+        },
+        {
+            "name": "Zagorc, Jože",
+            "name_german": "Zagorc, Josef",
+            "profession": "lastnik nepremičnin",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-21",
+                    "end_date": "1867-01-26"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                }
+            }
+        },
+        {
+            "name": "Zarnik, Valentin",
+            "profession": "odvetnik",
+            "terms": {
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                },
+                "4": {
+                    "faction": "slovenska",
+                    "start_date": "1870-06-27",
+                    "end_date": "1871-12-12"
+                },
+                "5": {
+                    "faction": "slovenska",
+                    "start_date": "1871-12-12",
+                    "end_date": "1877-07-07"
+                },
+                "6": {
+                    "faction": "slovenska",
+                    "start_date": "1877-07-07",
+                    "end_date": "1883-06-09"
+                },
+                "7": {
+                    "faction": "slovenska",
+                    "start_date": "1883-06-09",
+                    "end_date": "1883-10-21"
+                }
+            }
+        },
+        {
+            "name": "Zelen, Jože",
+            "name_german": "Zelen, Josef",
+            "profession": "nepremičninar",
+            "terms": {
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                }
+            }
+        },
+        {
+            "name": "Zois, Alfonz",
+            "name_full": "Alfons Zois-Edelstein",
+            "name_german": "Zois-Edelstein, Alfons",
+            "profession": "veleposestnik",
+            "terms": {
+                "7": {
+                    "faction": "ustavoverna-nemška",
+                    "start_date": "1883-06-15",
+                    "end_date": "1889-04-08"
+                }
+            }
+        },
+        {
+            "name": "Zois, Anton",
+            "name_full": "baron Anton Zois",
+            "name_german": "Zois-Edelstein, Anton",
+            "title": "baron",
+            "profession": "veleposestnik",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-28",
+                    "end_date": "1867-02-01"
+                },
+                "2": {
+                    "faction": "slovenska",
+                    "start_date": "1867-01-26",
+                    "end_date": "1867-03-26"
+                },
+                "3": {
+                    "faction": "slovenska",
+                    "start_date": "1867-03-26",
+                    "end_date": "1870-06-27"
+                }
+            }
+        },
+        {
+            "name": "Zois, Mihael",
+            "name_german": "Zois-Edelstein, Michael",
+            "title": "baron",
+            "profession": "železarnar",
+            "terms": {
+                "1": {
+                    "faction": "",
+                    "start_date": "1861-03-26",
+                    "end_date": "1865-11-30"
+                }
+            }
+        },
+        {
+            "name": "Žitnik, Ignacij",
+            "name_german": "Žitnik, Ignaz",
+            "profession": "duhovnik",
+            "terms": {
+                "8": {
+                    "faction": "slovenska",
+                    "start_date": "1889-07-04",
+                    "end_date": "1895-11-21"
+                },
+                "9": {
+                    "faction": "katoliška",
+                    "start_date": "1895-11-21",
+                    "end_date": "1901-09-12"
+                },
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1901-09-12",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Zabret, Janko",
+            "profession": "župan",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Mandelj, Josip",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1910-12-06"
+                }
+            }
+        },
+        {
+            "name": "Hladnik, Janez Ivan",
+            "profession": "župnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Vilfan, Ivan Janko",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-02-28",
+                    "end_date": "1912-12-08"
+                }
+            }
+        },
+        {
+            "name": "Zurc, Josip",
+            "profession": "gostilničar",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Gangl, Engelbert",
+            "profession": "učitelj",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-16"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Galle, Franc",
+            "profession": "veleposestnik",
+            "terms": {
+                "10": {
+                    "faction": "",
+                    "start_date": "1905-04-17",
+                    "end_date": "1908-03-06"
+                },
+                "11": {
+                    "faction": "",
+                    "start_date": "1908-03-06",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Demšar, Franc",
+            "profession": "posestnik",
+            "terms": {
+                "10": {
+                    "faction": "katoliška",
+                    "start_date": "1904-04-07",
+                    "end_date": "1908-02-21"
+                },
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Oražen, Ivan",
+            "terms": {
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1908-12-22",
+                    "end_date": "1910-10-04"
+                }
+            }
+        },
+        {
+            "name": "Bartol, Franc",
+            "profession": "župan",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                }
+            }
+        },
+        {
+            "name": "Triller, Karel",
+            "profession": "odvetnik",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-02-28",
+                    "end_date": "1913-12-16"
+                },
+                "12": {
+                    "faction": "liberalci",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Lovšin, Anton",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Matjašič, Martin",
+            "profession": "posestnik",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Dermastia, Karel",
+            "profession": "učitelj",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1912-03-14",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Plantan, Ivan",
+            "terms": {
+                "11": {
+                    "faction": "liberalci",
+                    "start_date": "1908-02-28",
+                    "end_date": "1909-04-07"
+                }
+            }
+        },
+        {
+            "name": "Gostinčar, Josip",
+            "profession": "politik",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1914-03-12",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Zajec, Ivan",
+            "profession": "zdravnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Lampe, Evgen",
+            "profession": "duhovnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-02-21",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Jarc, Evgen",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1908-12-14",
+                    "end_date": "1913-12-01"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Perhavec, Bogomir",
+            "profession": "posestnik",
+            "terms": {
+                "11": {
+                    "faction": "katoliška",
+                    "start_date": "1909-04-03",
+                    "end_date": "1913-12-09"
+                },
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-09",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Šuklje, Milan",
+            "profession": "gospodarstvenik",
+            "DOB": "1881-06-18",
+            "POB": "Wiener Neustadt, Avstrija",
+            "DOD": "1937-02-10",
+            "POD": "Golnik, Slovenija",
+            "terms": {
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-16",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Windischgräz, Hugo",
+            "name_full": "knez Hugo Veriand Windischgräz",
+            "title": "knez",
+            "profession": "veleposestnik",
+            "terms": {
+                "11": {
+                    "faction": "",
+                    "start_date": "1912-09-28",
+                    "end_date": "1913-12-22"
+                },
+                "12": {
+                    "faction": "",
+                    "start_date": "1913-12-22",
+                    "end_date": "1918-11-04"
+                }
+            }
+        },
+        {
+            "name": "Mihelčič, Alojzij",
+            "profession": "skladatelj",
+            "terms": {
+                "12": {
+                    "faction": "katoliška",
+                    "start_date": "1913-12-01",
+                    "end_date": "1918-11-04"
+                }
+            }
+        }
+    ]
+}
